@@ -1,0 +1,6 @@
+[package]
+name = "p4c"
+version = "0.1.0"
+authors = ["Aaron St. George <aaronstgeorge@gmail.com>"]
+
+[dependencies]
